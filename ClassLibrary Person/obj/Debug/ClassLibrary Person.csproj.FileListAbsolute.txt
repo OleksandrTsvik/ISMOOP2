@@ -1,0 +1,6 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\ClassLibrary Person\bin\Debug\ClassLibrary Person.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\ClassLibrary Person\bin\Debug\ClassLibrary Person.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\ClassLibrary Person\obj\Debug\ClassLibrary Person.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\ClassLibrary Person\obj\Debug\ClassLibrary Person.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\ClassLibrary Person\obj\Debug\ClassLibrary Person.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\ClassLibrary Person\obj\Debug\ClassLibrary Person.pdb

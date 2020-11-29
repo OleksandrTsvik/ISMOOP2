@@ -1,0 +1,10 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\bin\Debug\Console Application.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\bin\Debug\Console Application.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\bin\Debug\Console Application.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\bin\Debug\ClassLibrary Person.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\bin\Debug\ClassLibrary Person.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\obj\Debug\Console Application.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\obj\Debug\Console Application.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\obj\Debug\Console Application.csproj.CopyComplete
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\obj\Debug\Console Application.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №08\OOP2\OOP2\Console Application\obj\Debug\Console Application.pdb
